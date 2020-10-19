@@ -1,0 +1,8 @@
+{
+    "name": "flowdapp",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true
+    }
+}
